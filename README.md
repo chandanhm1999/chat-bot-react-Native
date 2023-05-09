@@ -1,5 +1,6 @@
 # chat-bot-react-Native
-simple ChatBot screen in React Native!
+
+### simple ChatBot screen in React Native!
 
 ![Screenshot 2023-05-09 175139](https://github.com/chandanhm1999/chat-bot-react-Native/assets/109410990/d4c3cf71-80a9-42bb-a4e9-c495951e9d55)
 
