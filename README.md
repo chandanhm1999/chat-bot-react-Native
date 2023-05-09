@@ -11,6 +11,12 @@
 
 > Setup
 
+> Run the following command to create a new React Native project called "AppName":
+## Created Using!
+```
+npx create-expo-app ['AppName']
+```
+
 ## Get the code
 
 ```
