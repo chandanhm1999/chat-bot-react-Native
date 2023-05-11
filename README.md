@@ -1,4 +1,4 @@
-# chat-bot-react-Native!
+# Chat-Bot-React-Native!
 
 ### Simple ChatBot screen in React Native!
 
